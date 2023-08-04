@@ -8,6 +8,6 @@ class SuitTest {
 
     @Test
     void heartPrintsHeart() {
-        assertEquals("\u2665", Suit.HEARTS.toString());
+        assertEquals("♥", Suit.HEARTS.toString());
     }
 }
