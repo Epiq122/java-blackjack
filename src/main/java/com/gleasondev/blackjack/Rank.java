@@ -2,7 +2,6 @@ package com.gleasondev.blackjack;
 
 public enum Rank {
     ACE,
-    ONE,
     TWO,
     THREE,
     FOUR,
@@ -15,5 +14,5 @@ public enum Rank {
     JACK,
     QUEEN,
     KING,
-    
+
 }
